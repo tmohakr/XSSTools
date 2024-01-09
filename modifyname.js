@@ -3,7 +3,7 @@ var lastname= "MyNewLastname";
 var email= "True"
 var host = "https://identity.cybiquity.io";
 var manage = "/Manage";
-var create_params = "sEmailConfirmed=" + email +"&FirstName=" + firstname + "&LastName=" + lastname;
+var create_params = "isEmailConfirmed=" + email +"&FirstName=" + firstname + "&LastName=" + lastname;
 function send_create() { 
   console.log("Modifying User..."); 
   fetch(host+manage, {
