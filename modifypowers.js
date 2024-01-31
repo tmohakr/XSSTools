@@ -1,6 +1,6 @@
-var host = "https://identity.cybiquity.io";
-var exploitEndpoint = "/Organisation/ToggleUserRole/8c20a3df-b2de-4e0d-ad98-08dc0e02883a";
-var valuesEndpoint = "/Organisation/UserProfile/8c20a3df-b2de-4e0d-ad98-08dc0e02883a#roles";
+var host = "https://endpoint";
+var exploitEndpoint = "/Organisation/ToggleUserRole/end1";
+var valuesEndpoint = "/Organisation/UserProfile/end2";
 var tokenEndpoint ='/Organisation';
 
 var create_params;
