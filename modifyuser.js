@@ -1,8 +1,8 @@
-var firstname = "Tara";
-var lastname= "MyNewLastname";
+var firstname = "tmo";
+var lastname= "changethis";
 var email= "True"
-var emailaddress ="tara.owens@bridewell.com"
-var host = "https://identity.cybiquity.io";
+var emailaddress ="tmo@tmo.com"
+var host = "https://endpoint";
 var manage = "/Manage";   //this is the endpoint with functionality that can be changed - change variable bname if wish
 var index = "/Manage/index";  //this is the endpoint for grabbing token
 var token2;
